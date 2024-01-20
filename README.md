@@ -1,4 +1,4 @@
-# There's actually something here now, how exciting
+# :^)
 
 ## Something more's here, other than us chickens
 
