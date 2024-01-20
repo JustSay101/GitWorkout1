@@ -1,4 +1,4 @@
-# There's actually something here now, how exciting
+# I'm a conflict, don't push me
 
 ## Something more's here, other than us chickens
 
